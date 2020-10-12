@@ -3,7 +3,7 @@
 - The core purpose of Data Mining is to unearth important information in a dataset and make the best use of this to discover and decode future trends.
 - Data Mining also incorporates data cleaning, pattern prediction, statistical analysis, data conversion, machine learning, and data visualization.
 
-# Data mining - Association Rule Mining
+# Association Rule Mining
 An association rule has 2 parts:
 
 - an antecedent (if) and
@@ -18,7 +18,7 @@ Prerequisite – Frequent Item set in Data set.
 - If an itemset is infrequent, all its supersets will be infrequent.
 
 
-# Data Mining - Cluster Analysis
+# Cluster Analysis
 
 Clustering is the process of making a group of abstract objects into classes of similar objects.
 
