@@ -4,13 +4,18 @@
 - Data Mining also incorporates data cleaning, pattern prediction, statistical analysis, data conversion, machine learning, and data visualization.
 
 # Data mining - Association Rule Mining
+An association rule has 2 parts:
 
-## Prerequisite – Frequent Item set in Data set.
-Apriori Property –
-All non-empty subset of frequent itemset must be frequent. The key concept of Apriori algorithm is its anti-monotonicity of support measure.
+- an antecedent (if) and
+- a consequent (then)
+An antecedent is something that’s found in data, and a consequent is an item that is found in combination with the antecedent. Have a look at this rule for instance:
 
+“If a customer buys bread, he’s 70% likely of buying milk.”
 
-
+Apriori algorithms: 
+Prerequisite – Frequent Item set in Data set.
+- All subsets of a frequent itemset must be frequent(Apriori propertry).
+- If an itemset is infrequent, all its supersets will be infrequent.
 
 
 # Data Mining - Cluster Analysis
