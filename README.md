@@ -17,7 +17,7 @@ Prerequisite – Frequent Item set in Data set.
 - All subsets of a frequent itemset must be frequent(Apriori propertry).
 - If an itemset is infrequent, all its supersets will be infrequent.
 
-I have implemented #### Apriori algorithm.
+I have implemented ### Apriori algorithm.
 # Cluster Analysis
 
 Clustering is the process of making a group of abstract objects into classes of similar objects.
@@ -30,5 +30,5 @@ Clustering is the process of making a group of abstract objects into classes of 
   - Ability to deal with noisy data
   - Interpretability
   
-  I have implemented #### K-means cluster with initial seed selection and #### K-medoids clustering algorithm.
+  I have implemented ### K-means cluster with initial seed selection and ### K-medoids clustering algorithm.
   
